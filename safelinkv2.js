@@ -21,8 +21,8 @@ if(a_to_vh==false)
 {var encryptedUrl=Base64.encode(a_to_vi);
 var x=Math.floor((Math.random()*2)+ 1);
 var xxx=null;
-if(x=="1"){xxx="cara-membuat-blog-bagi-pemula.html"}
-if(x=="2"){xxx="cara-artikel-cepat-terindex-google.html"}a_to_ve[i].href="http://safelink.masoga.net/2018/03/"+xxx+"?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
+if(x=="1"){xxx="orders-of-prohibition-relating-to.html"}
+if(x=="2"){xxx="how-to-solve-eating-difficulty-in.html"}a_to_ve[i].href="http://safelink.masoga.net/2018/03/"+xxx+"?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
 var a_to_vj=document.getElementById("anonyminized");var a_to_vk=document.getElementById("found_links");if(a_to_vj)
 {a_to_vj.innerHTML+=a_to_vb;}
 if(a_to_vk)
